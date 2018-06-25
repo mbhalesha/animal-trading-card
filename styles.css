@@ -1,0 +1,30 @@
+/* add your CSS here */
+h1 {
+color: deeppink;
+}
+
+.animal-info{
+  font-style: italic;
+}
+
+ul li span {
+  font-weight:bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#container{
+  border: 3px solid teal;
+  padding: 12px;
+}
+
+#card {
+ border: 3px solid deeppink; 
+  padding: 6px;
+}
+
+
+
+
