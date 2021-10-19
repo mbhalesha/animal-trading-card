@@ -1,4 +1,9 @@
 /* add your CSS here */
+.js-focus-visible {
+    width: 350px;
+    text-align: center;
+}
+
 h1 {
 color: deeppink;
 }
